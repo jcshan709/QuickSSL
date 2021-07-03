@@ -61,4 +61,8 @@
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+    <None Include="LICENSE" />
+  </ItemGroup>
 </Project>
