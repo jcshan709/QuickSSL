@@ -1,6 +1,7 @@
 # QuickSSL
-一个加/解密程序  
-目前支持 SHA-1加密、SHA-256加密、SHA-512加密、MD5加密、RSA密钥生成、base64文本转换
-#### 特别感谢
-[OpenSSL库（openssl/openssl）](https://github.com/openssl/openssl)  
-[yaml-cpp库（jbeder/yaml-cpp）](https://github.com/jbeder/yaml-cpp)
+> 娉細鏈」鐩仠姝㈠紑鍙戯紝杞悜[QtCrypto](https://github.com/sjc0910/QtCrypto)骞跺叏闈㈤潰鍚慶make+Qt6鏋勫缓
+涓�涓姞/瑙ｅ瘑绋嬪簭  
+鐩墠鏀寔 SHA-1鍔犲瘑銆丼HA-256鍔犲瘑銆丼HA-512鍔犲瘑銆丮D5鍔犲瘑銆丷SA瀵嗛挜鐢熸垚銆乥ase64鏂囨湰杞崲
+#### 鐗瑰埆鎰熻阿
+[OpenSSL搴擄紙openssl/openssl锛塢(https://github.com/openssl/openssl)  
+[yaml-cpp搴擄紙jbeder/yaml-cpp锛塢(https://github.com/jbeder/yaml-cpp)
